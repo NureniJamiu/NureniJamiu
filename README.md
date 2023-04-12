@@ -8,9 +8,9 @@ Hi, I'm a frontend developer with experience working with React, Vue, and other 
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [nurenijamiu951@gmail.com](mailto:nurenijamiu951@gmail.com)
-* 🧠  I'm learning PHP and Laravel as a framework
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I have two nicknames— "Atom", when I'm a tech person and "Penocrat", when shackled to the fetters of my pen.
+* 🧠  I'm currently learning PHP for Backend development.
+* 🤝  I'm open to collaborating as a freelancer on Interesting projects.
+* ⚡  Fun fact: I identify as two personalities- "Atom", when I'm a tech person and "Penocrat", when shackled to the fetters of my pen.
 
 ### Skills
 
