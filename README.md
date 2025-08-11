@@ -57,9 +57,3 @@ Hi, I'm a frontend developer with experience working with React, Vue, and other 
 
 <a href="http://www.github.com/NureniJamiu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NureniJamiu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/NureniJamiu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NureniJamiu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/NureniJamiu/screenforge" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NureniJamiu&repo=screenforge&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NureniJamiu/amatech-learning-hub" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NureniJamiu&repo=amatech-learning-hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NureniJamiu/ekopulse" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NureniJamiu&repo=ekopulse&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NureniJamiu/amaech-lasu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NureniJamiu&repo=amatech-lasu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
