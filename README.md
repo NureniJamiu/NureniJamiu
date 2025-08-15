@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hi, I'm a frontend developer with experience working with React, Vue, and other frameworks. I have a solid foundation in HTML, CSS, and JavaScript, as well as expertise in Tailwind CSS, Sass, and other web design systems.
+Hi, I'm a Software Engr. with an extensive background in Frontend Engineering and a current focus on AI/ML. I have experience working with NextJS, React, TypeScript, Nodejs and some other frameworks. I have a solid foundation in HTML, CSS, and JavaScript, as well as expertise in Tailwind CSS, Sass, and other web design systems.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [nurenijamiu951@gmail.com](mailto:nurenijamiu951@gmail.com)
-* 🤝  I'm open to collaborating as a freelancer on Interesting projects.
+* 🤝  I'm looking for fulltime/part-time opportunities as a Software Engr..
 * ⚡  Fun fact: I identify as two personalities- "Atom", when I'm a tech person and "Penocrat", when shackled to the fetters of my pen.
 
 ### Skills
