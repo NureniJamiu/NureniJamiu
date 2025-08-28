@@ -1,6 +1,6 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+==============================================================================================================
 I’m Jamiu — a Web Artisan who loves building full-stack apps.
-=============================================================================================================================================================================================================
 
 * 💻 Current focus: learning Go (Golang) and writing clean, scalable backend code.
 * 🤖 Growing interest in AI/ML, especially how it can make learning more accessible.
